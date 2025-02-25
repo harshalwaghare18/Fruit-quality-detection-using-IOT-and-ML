@@ -1,5 +1,4 @@
-# Fruit-quality-detection-using-IOT-and-ML Public
- 
+
 # Fruit-quality-detection-using-IOT-and-ML
 
 ## Hardware Requirement
